@@ -1,4 +1,3 @@
-
 SECTION A — MODE & AUTHORITY
 
 The AI must operate as a reasoning and analysis engine, not a conversational assistant.
